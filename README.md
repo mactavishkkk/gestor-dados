@@ -28,6 +28,7 @@ Artefatos estes que estão dísponíveis aqui:
 - Documento (PDF) - [Google Drive](https://drive.google.com/file/d/1I7Y5vxHYHhnPMLAOZl93TunKZAz_cZ2-/view?usp=sharing)
 - Documento - [Google Docs](https://docs.google.com/document/d/1TqrN_IuCeWMEyXb-CXqCkhHOr9Q_l1iyzX398EwOKeo/edit)
 - Histórias de Usuário - [Miro](https://miro.com/app/board/uXjVMnEIVQA=/?share_link_id=393423487458)
+- Protótipo de Interfaces - [Figma](https://www.figma.com/file/tQYedRUUAFLAFfGWXo2UXi/Gestor-de-dados---Projeto-Integrador(Senac)?type=design&node-id=0%3A1&mode=design&t=osd43U6dPki2uNTc-1)
 ## Time
 
 O time deste projeto é composto por:
